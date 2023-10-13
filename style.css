@@ -1,3 +1,7 @@
 p{
     color: blue;
 }
+p{
+    margin: 10;
+    padding: 20;
+}
